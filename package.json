@@ -1,6 +1,6 @@
 {
   "name": "@deliveryhero/class-validator",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "Decorator-based property validation for classes.",
   "author": "TypeStack contributors/Delivery Hero - Data Streams",
   "license": "MIT",

@@ -1,6 +1,6 @@
 import { ValidationMetadata } from './ValidationMetadata';
 import { ConstraintMetadata } from './ConstraintMetadata';
-import { ValidationSchema } from '../validation-schema/ValidationSchema';
+import { ValidationSchema } from '..';
 import { ValidationSchemaToMetadataTransformer } from '../validation-schema/ValidationSchemaToMetadataTransformer';
 import { getGlobal } from '../utils';
 
